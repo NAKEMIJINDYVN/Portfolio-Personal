@@ -8,7 +8,7 @@
 - **Instant Feedback:** Displays a confirmation message immediately after submission to improve user experience.
 - **Tech Stack:** HTML, CSS, JavaScript – lightweight but effective.
 
-## 📁 Project Structure
+## Project Structure
 /Portfiliopersonal<br>
 ├─ index.html # Main HTML file <br>
 ├─ style.css # Stylesheet for the interface <br>
